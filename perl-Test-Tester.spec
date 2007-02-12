@@ -6,7 +6,7 @@
 %define	pdir	Test
 %define	pnam	Tester
 Summary:	Test::Tester - Ease testing test modules built with Test::Builder
-Summary(pl):	Test::Tester - u≥atwianie testowania modu≥Ûw testowych z Test::Buildera
+Summary(pl.UTF-8):   Test::Tester - u≈Çatwianie testowania modu≈Ç√≥w testowych z Test::Buildera
 Name:		perl-Test-Tester
 Version:	0.103
 Release:	1
@@ -25,9 +25,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 If you have written a test module based on Test::Builder then
 Test::Tester allows you to test it with the minimum of effort.
 
-%description -l pl
-Je∂li modu≥ testowy jest oparty na klasie Test::Builder, to
-Test::Tester umoøliwia przetestowanie go minimalnym nak≥adem pracy.
+%description -l pl.UTF-8
+Je≈õli modu≈Ç testowy jest oparty na klasie Test::Builder, to
+Test::Tester umo≈ºliwia przetestowanie go minimalnym nak≈Çadem pracy.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
