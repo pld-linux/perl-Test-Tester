@@ -9,7 +9,7 @@ Summary:	Test::Tester - Ease testing test modules built with Test::Builder
 Summary(pl.UTF-8):	Test::Tester - ułatwianie testowania modułów testowych z Test::Buildera
 Name:		perl-Test-Tester
 Version:	0.107
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
