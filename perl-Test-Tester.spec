@@ -8,13 +8,13 @@
 Summary:	Test::Tester - Ease testing test modules built with Test::Builder
 Summary(pl.UTF-8):	Test::Tester - ułatwianie testowania modułów testowych z Test::Buildera
 Name:		perl-Test-Tester
-Version:	0.108
+Version:	0.109
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	939d4fb9ad04b8b5a746cdd09040ea0b
+# Source0-md5:	d8fd872ee7e959f89a4af0371a7e782d
 URL:		http://search.cpan.org/dist/Test-Tester/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
