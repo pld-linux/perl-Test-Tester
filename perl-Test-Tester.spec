@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Test
 %define	pnam	Tester
 Summary:	Test::Tester - Ease testing test modules built with Test::Builder
